@@ -15,11 +15,13 @@ Each workshop represents a stage in the development process of the application. 
 
 - Workshop_1.pdf: Requirements, user stories, CRC cards, and mockups 
 
+> `Workshop-2/`  
+(Coming soon)
+
+> `Workshop-3/`  
+(Coming soon)
+
 - LICENSE # Apache License 2.0
-
-- 📁 Workshop_2/ └── (Coming soon)
-
-- 📁 Workshop_3/ └── (Coming soon)
 
 ## 📚 Project Overview
 
