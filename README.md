@@ -14,7 +14,7 @@ Each workshop represents a stage in the development process of the application. 
 
 ## 📁 Workshop-1/ 
 
-- ([Workshop_1.pdf](https://github.com/Foulsito/TinderApp/blob/main/Workshops/Workshop%20N%C2%B01.pdf)): Requirements, user stories, CRC cards, and mockups 
+- ([Workshop_1.pdf](https://github.com/Foulsito/TinderApp/tree/main/Workshop_1)): Requirements, user stories, CRC cards, and mockups 
 
 ## 📁 Workshop_2/ 
 
