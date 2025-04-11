@@ -57,7 +57,7 @@ UI sketches were created in Figma to visualize the interface:
 
 ## 📄 Files
 
-- `Workshop_1.pdf`: Complete documentation (requirements, stories, mockups, CRCs)
+- `Workshop_N°1.pdf`: Complete documentation (requirements, stories, mockups, CRCs)
 - `LICENSE`: Apache License 2.0 applied to this project
 
 ---
