@@ -36,7 +36,7 @@ We are building a simplified version of the Tinder dating app with the following
 
 ## 🧩 Workshops Summary
 
-### 🔹 Workshop 1 – Object-Oriented Design
+### 🔹 Workshop 1 
 
 > 📁 Folder: `Workshop-1/`
 
