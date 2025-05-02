@@ -48,8 +48,14 @@ Includes:
 
 ### 🔹 Workshop 2 
 
-> 📁 Folder: `Workshop-2/`  
-(Coming soon)
+> 📁 Folder: `Workshop-2/`
+
+Includes:
+- Conceptual design updates
+- UML class and sequence diagrams
+- Application of OOP principles (encapsulation, inheritance, no polymorphism)
+- Code snippets linked to the class structure
+
 
 ### 🔹 Workshop 3 
 
