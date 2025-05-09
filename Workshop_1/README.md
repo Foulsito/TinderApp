@@ -5,6 +5,21 @@ This folder contains the first workshop of the Object-Oriented Programming proje
 - **Julián Carvajal Garnica** – 20242020024  
 - **Andrés Mauricio Cepeda Villanueva** – 20242020010  
 
+---
+
+## 📑 Table of Contents
+
+- [📘 Workshop Overview](#-workshop-overview)
+- [🎯 Objectives](#-objectives)
+- [✅ Functional Requirements](#-functional-requirements)
+- [🔐 Non-Functional Requirements](#-non-functional-requirements)
+- [🧩 User Stories](#-user-stories)
+- [🎨 Mockups](#-mockups)
+- [🧠 CRC Cards](#-crc-cards)
+- [📄 Files](#-files)
+
+---
+
 ## 📘 Workshop Overview
 
 This workshop introduces the conceptual design of a simplified Tinder-like application. It focuses on defining core functionalities, user interaction flows, and class structure using object-oriented principles.
@@ -63,4 +78,3 @@ UI sketches were created in Figma to visualize the interface:
 ---
 
 This workshop lays the foundation for future implementation and development of the Tinder-inspired app in upcoming workshops.
-
