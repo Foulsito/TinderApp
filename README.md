@@ -18,9 +18,12 @@ Each workshop represents a stage in the development process of the application. 
 
 ## 📁 Workshop_2/ 
 
-- ([Workshop_1.pdf](https://github.com/Foulsito/TinderApp/tree/main/Workshop_1)): Conceptual Desing Updates, UML diagrams, Implementation plan for OOP concepts, and work in progress code 
+- ([Workshop_1.pdf](https://github.com/Foulsito/TinderApp/tree/main/Workshop_2)): Conceptual Desing Updates, UML diagrams, Implementation plan for OOP concepts, and work in progress code 
 
 ## 📁 Workshop_3/ 
+- (Coming soon)
+
+  ## 📁 Workshop_4/ 
 - (Coming soon)
 
 ## LICENSE # Apache License 2.0
