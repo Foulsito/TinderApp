@@ -5,6 +5,25 @@ This folder contains the second workshop of the Object-Oriented Programming proj
 - **Julián Carvajal Garnica** – 20242020024  
 - **Andrés Mauricio Cepeda Villanueva** – 20242020010  
 
+---
+
+## 📑 Table of Contents
+
+- [📘 Workshop Overview](#-workshop-overview)
+- [🎯 Objectives](#-objectives)
+- [✅ Functional Requirements](#-functional-requirements)
+- [🔐 Non-Functional Requirements](#-non-functional-requirements)
+- [🧩 User Stories](#-user-stories)
+- [🧠 CRC Cards](#-crc-cards)
+- [🧱 UML Diagrams](#-uml-diagrams)
+- [💡 OOP Concepts](#-oop-concepts)
+- [🔄 Code Mapping](#-code-mapping)
+- [🎨 Mockups](#-mockups)
+- [📂 Code Prototype](#-code-prototype)
+- [📄 Files](#-files)
+
+---
+
 ## 📘 Workshop Overview
 
 This workshop builds upon the conceptual design introduced in Workshop 1. It focuses on implementing object-oriented principles and translating the initial design into UML diagrams, user stories, and basic code structure.
@@ -93,4 +112,5 @@ Initial implementation of classes based on UML design:
 
 ---
 
-This workshop transitions from theory to implementation, laying the foundation for a fully functional app in Workshop 3.
+This workshop lays the foundation for future implementation and development of the Tinder-inspired app in upcoming workshops.
+
