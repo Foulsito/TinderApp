@@ -83,7 +83,7 @@ Visual updates were made to streamline interactions and UI clarity:
 
 Initial implementation of classes based on UML design:
 
-🔗 [https://github.com/Foulsito/TinderApp/tree/main/Workshop_2/Code%20of%20TinderApp]
+🔗 [Click here!] (https://github.com/Foulsito/TinderApp/tree/main/Workshop_2/Code%20of%20TinderApp)
 
 ## 📄 Files
 
