@@ -79,6 +79,12 @@ Visual updates were made to streamline interactions and UI clarity:
 
 🔗 [View mockups on Figma](https://www.figma.com/design/Fjw8QTU486SoliSIwdrVPO/Mockup-WorkShop)
 
+## 📂 Code Prototype
+
+Initial implementation of classes based on UML design:
+
+🔗 [https://github.com/Foulsito/TinderApp/tree/main/Workshop_2/Code%20of%20TinderApp]
+
 ## 📄 Files
 
 - `Workshop_N°2.pdf`: Full documentation (stories, CRCs, UML, and analysis)
