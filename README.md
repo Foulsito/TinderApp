@@ -11,19 +11,19 @@ This repository contains the full development of a transactional application ins
 
 Each workshop represents a stage in the development process of the application. The structure is organized as follows:
 
-
 ## 📁 Workshop-1/ 
 
 - ([Workshop_1.pdf](https://github.com/Foulsito/TinderApp/tree/main/Workshop_1)): Requirements, user stories, CRC cards, and mockups 
 
 ## 📁 Workshop_2/ 
 
-- ([Workshop_2.pdf](https://github.com/Foulsito/TinderApp/tree/main/Workshop_2)): Conceptual Desing Updates, UML diagrams, Implementation plan for OOP concepts, and work in progress code 
+- ([Workshop_2.pdf](https://github.com/Foulsito/TinderApp/tree/main/Workshop_2)): Conceptual design updates, UML diagrams, implementation plan for OOP concepts, and work-in-progress code 
 
 ## 📁 Workshop_3/ 
-- (Coming soon)
 
-  ## 📁 Workshop_4/ 
+- ([Workshop_3.pdf](https://github.com/Foulsito/TinderApp/tree/main/Workshop_3)): Final integration with simplified class structure, updated UML diagrams, photo and notification features, and functional code prototype
+
+## 📁 Workshop_4/ 
 - (Coming soon)
 
 ## LICENSE # Apache License 2.0
@@ -46,8 +46,8 @@ We are building a simplified version of the Tinder dating app with the following
 Includes:
 - Functional and non-functional requirements
 - User stories with acceptance criteria
-- mockups ([View on Figma](https://www.figma.com/board/fnGljgUhbNpFASJmIpG6rC/Untitled?node-id=0-1&t=pt9D6LsBvTT4PDfy-1)) 
-- CRC cards for class plannin
+- Mockups ([View on Figma](https://www.figma.com/board/fnGljgUhbNpFASJmIpG6rC/Untitled?node-id=0-1&t=pt9D6LsBvTT4PDfy-1)) 
+- CRC cards for class planning
 
 ### 🔹 Workshop 2 
 
@@ -59,13 +59,16 @@ Includes:
 - Application of OOP principles (encapsulation, inheritance, no polymorphism)
 - Code snippets linked to the class structure
 
-
 ### 🔹 Workshop 3 
 
-> 📁 Folder: `Workshop-3/`  
-(Coming soon)
+> 📁 Folder: `Workshop-3/`
+
+Includes:
+- Final class structure with `User`, `Photo`, `Notification`, and `App`
+- Simplified features: profile editing, like notifications, and photo management
+- Updated UML and activity diagrams
+- Final code prototype reflecting OOP and SOLID principles
 
 ## 🔐 License
 
-This project is licensed under the [Apache 2.0 License](https://github.com/Foulsito/TinderApp./blob/main/LICENSE).
-
+This project is licensed under the [Apache 2.0 License](https://github.com/Foulsito/TinderApp/blob/main/LICENSE).
