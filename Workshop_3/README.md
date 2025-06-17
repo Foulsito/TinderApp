@@ -135,7 +135,7 @@ Includes activities for:
 
 Java code reflects the finalized UML and functionality.
 
-🔗 [Click here for the code](https://github.com/Foulsito/TinderApp/tree/main/Workshop_3)
+🔗 [Click here for the code](https://github.com/Foulsito/TinderApp/tree/main/Workshop_3/MiniTinder)
 
 ---
 
