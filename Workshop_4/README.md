@@ -21,9 +21,6 @@ This folder contains the fourth workshop of the Object-Oriented Programming proj
 - [💡 OOP Concepts](#-oop-concepts)
 - [🧪 SOLID-Focused Implementation](#-solid-focused-implementation)
 - [🖥️ GUI Prototype](#-gui-prototype)
-- [💾 File Storage](#-file-storage)
-- [📂 Code Prototype](#-code-prototype)
-- [📄 Files](#-files)
 
 ---
 
@@ -165,11 +162,4 @@ Implemented using **Java Swing**:
 - Layout: `BoxLayout` for clean alignment.  
 
 The GUI directly integrates with the core logic, ensuring consistency with the UML activity and sequence diagrams.
-
----
-
-## 💾 File Storage
-
-- Implemented using **`FileWriter` and `BufferedReader`**.  
-- User data persisted in `users.txt` with comma-separated values:  
 
